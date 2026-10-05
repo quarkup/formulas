@@ -1,5 +1,4 @@
-import streamlit as st
-import tk as t
+import tkinter as t
 from tkinter import messagebox
 from matplotlib.pyplot import*
 from matplotlib.figure import Figure
@@ -93,6 +92,8 @@ entra_func.pack(side=t. BOTTOM)
 #---------------------------------------
 
 win.mainloop()
+
+
 
 
 
