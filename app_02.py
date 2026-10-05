@@ -1,5 +1,5 @@
 import streamlit as st
-import tkinter as t
+import tkinter as tk
 from tkinter import messagebox
 from matplotlib.pyplot import*
 from matplotlib.figure import Figure
