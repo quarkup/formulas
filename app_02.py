@@ -1,4 +1,5 @@
 import tkinter as t
+from tkinter import *
 from tkinter import messagebox
 from matplotlib.pyplot import*
 from matplotlib.figure import Figure
